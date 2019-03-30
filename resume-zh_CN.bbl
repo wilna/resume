@@ -1,0 +1,897 @@
+\begin{thebibliography}{100}
+
+\bibitem{sun2019mihbs}
+Liang Sun, Lei Wang, Jian Fang, Jialin Liu, and Can Ma.
+\newblock Mihbs: A mobile interface of high bandwidth for wireless sensor
+  networks.
+\newblock {\em IEEE Access}, 7:8235--8244, 2019.
+
+\bibitem{fang2018gcc}
+Jian Fang, Lei Wang, Zhenquan Qin, Jialin Liu, and Bingxian Lu.
+\newblock Gcc: Group-based csi feedback compression for mu-mimo networks.
+\newblock {\em Mobile Networks and Applications}, 23(3):407--418, 2018.
+
+\bibitem{guo2018huac}
+Linlin Guo, Lei Wang, Jialin Liu, Wei Zhou, and Bingxian Lu.
+\newblock Huac: Human activity recognition using crowdsourced wifi signals and
+  skeleton data.
+\newblock {\em Wireless Communications and Mobile Computing}, 2018, 2018.
+
+\bibitem{jin2018robust}
+Naigao Jin, Xin Zhou, Zihan Wang, Yu~Liu, and Lei Wang.
+\newblock Robust sequence-based localization in acoustic sensor networks.
+\newblock In {\em 2018 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP)}, pages 3809--3813. IEEE, 2018.
+
+\bibitem{li2018optimal}
+Bin Li, Xiangqi Kong, and Lei Wang.
+\newblock Optimal load-balancing for high-density wireless networks with
+  flow-level dynamics.
+\newblock {\em arXiv preprint arXiv:1805.00158}, 2018.
+
+\bibitem{lin2018wiau}
+Chi Lin, Jiaye Hu, Yu~Sun, Fenglong Ma, Lei Wang, and Guowei Wu.
+\newblock Wiau: An accurate device-free authentication system with resnet.
+\newblock In {\em 2018 15th Annual IEEE International Conference on Sensing,
+  Communication, and Networking (SECON)}, pages 1--9. IEEE, 2018.
+
+\bibitem{lin2018mts}
+Chi Lin, Zhiyuan Wang, Jing Deng, Lei Wang, Jiankang Ren, and Guowei Wu.
+\newblock mts: Temporal-and spatial-collaborative charging for wireless
+  rechargeable sensor networks with multiple vehicles.
+\newblock In {\em IEEE INFOCOM 2018-IEEE Conference on Computer
+  Communications}, pages 99--107. IEEE, 2018.
+
+\bibitem{ling2018linca}
+Chen Ling, Lei Wang, Jun Lang, Qiufen Xia, Guoxuan Chang, Kun Wang, and Peng
+  Zhao.
+\newblock Linca: A page loading time optimization approach for users subject to
+  internet access restriction.
+\newblock In {\em Companion of the The Web Conference 2018 on The Web
+  Conference 2018}, pages 69--70. International World Wide Web Conferences
+  Steering Committee, 2018.
+
+\bibitem{liu2018multi}
+Jialin Liu, Lei Wang, Jian Fang, Linlin Guo, Bingxian Lu, and Lei Shu.
+\newblock Multi-target intense human motion analysis and detection using
+  channel state information.
+\newblock {\em Sensors}, 18(10):3379, 2018.
+
+\bibitem{lu2018dynamic}
+Bingxian Lu, Zhenquan Qin, Yingxiao Sun, Junyu Hu, and Lei Wang.
+\newblock A dynamic self-adapting mechanism for zigbee performance assurance
+  under wi-fi interference.
+\newblock {\em IEEE Sensors Journal}, 18(9):3900--3909, 2018.
+
+\bibitem{lu2018spoofing}
+Bingxian Lu, Zhenquan Qin, Mingyi Yang, Xu~Xia, Renjie Zhang, and Lei Wang.
+\newblock Spoofing attack detection using physical layer information in
+  cross-technology communication.
+\newblock In {\em 2018 15th Annual IEEE International Conference on Sensing,
+  Communication, and Networking (SECON)}, pages 1--2. IEEE, 2018.
+
+\bibitem{lu2018lasa}
+Bingxian Lu, Lei Wang, Jialin Liu, Wei Zhou, Linlin Guo, Myeong-Hun Jeong,
+  Shaowen Wang, and Guangjie Han.
+\newblock Lasa: Location aware wireless security access control for iot
+  systems.
+\newblock {\em Mobile Networks and Applications}, pages 1--13, 2018.
+
+\bibitem{qin2018lol}
+Zhenquan Qin, Jiaxin Du, Guangjie Han, Gaopeng Yong, Linlin Guo, and Lei Wang.
+\newblock Lol: localization-free online keystroke tracking using acoustic
+  signals.
+\newblock {\em Soft Computing}, pages 1--13, 2018.
+
+\bibitem{sun2018novel}
+Liang Sun, Lei Wang, Zhenquan Qin, Zhuxiu Yuan, and Yuanfang Chen.
+\newblock A novel on-line association algorithm for supporting load balancing
+  in multiple-ap wireless lan.
+\newblock {\em Mobile Networks and Applications}, pages 1--12, 2018.
+
+\bibitem{sun2018enabling}
+Yingxiao Sun, Zhenquan Qin, Junyu Hu, Lei Wang, Jiaxin Du, and Yan Ren.
+\newblock Enabling zigbee link performance robust under cross-technology
+  interference.
+\newblock In {\em International Conference on Wireless Algorithms, Systems, and
+  Applications}, pages 450--461. Springer, 2018.
+
+\bibitem{wang2018city}
+Xiaojie Wang, Zhaolong Ning, Xiping Hu, Edith C-H Ngai, Lei Wang, Bin Hu, and
+  Ricky~YK Kwok.
+\newblock A city-wide real-time traffic management system: Enabling
+  crowdsensing in social internet of vehicles.
+\newblock {\em IEEE Communications Magazine}, 56(9):19--25, 2018.
+
+\bibitem{wang2018offloading}
+Xiaojie Wang, Zhaolong Ning, and Lei Wang.
+\newblock Offloading in internet of vehicles: A fog-enabled real-time traffic
+  management system.
+\newblock {\em IEEE Transactions on Industrial Informatics}, 14(10):4568--4578,
+  2018.
+
+\bibitem{wang2018privacy}
+Xiaojie Wang, Zhaolong Ning, MengChu Zhou, Xiping Hu, Lei Wang, Bin Hu,
+  Ricky~YK Kwok, and Yi~Guo.
+\newblock A privacy-preserving message forwarding framework for opportunistic
+  cloud of things.
+\newblock {\em IEEE Internet of Things Journal}, 5(6):5281--5295, 2018.
+
+\bibitem{zhou2018unmanned}
+Wei Zhou, Lei Wang, Bingxian Lu, Naigao Jin, Linlin Guo, Jialin Liu, Honglei
+  Sun, and Hui Liu.
+\newblock Unmanned aerial vehicle detection based on channel state information.
+\newblock In {\em 2018 IEEE International Conference on Sensing, Communication
+  and Networking (SECON Workshops)}, pages 1--5. IEEE, 2018.
+
+\bibitem{zhu2018social}
+Chunsheng Zhu, Victor~CM Leung, Joel~JPC Rodrigues, Lei Shu, Lei Wang, and Huan
+  Zhou.
+\newblock Social sensor cloud: Framework, greenness, issues, and outlook.
+\newblock {\em IEEE Network}, 32(5):100--105, 2018.
+
+\bibitem{chen2017traffic}
+Yuanfang Chen, Lei Shu, and Lei Wang.
+\newblock Traffic flow prediction with big data: A deep learning based time
+  series model.
+\newblock In {\em 2017 IEEE Conference on Computer Communications Workshops
+  (INFOCOM WKSHPS)}, pages 1010--1011. IEEE, 2017.
+
+\bibitem{fang2017lfc}
+Jian Fang, Lei Wang, Zhenquan Qin, Jialin Liu, and Bingxian Lu.
+\newblock Lfc: Adaptive location-based csi feedback compression for mu-mimo
+  networks.
+\newblock In {\em 2017 International Smart Cities Conference (ISC2)}, pages
+  1--5. IEEE, 2017.
+
+\bibitem{guo2017novel}
+Linlin Guo, Lei Wang, Jialin Liu, Wei Zhou, Bingxian Lu~Tao Liu, Guangxu Li,
+  and Chen Li.
+\newblock A novel benchmark on human activity recognition using wifi signals.
+\newblock In {\em 2017 IEEE 19th International Conference on e-Health
+  Networking, Applications and Services (Healthcom)}, pages 1--6. IEEE, 2017.
+
+\bibitem{hao2017detecting}
+Kaiqing Hao and Lei Wang.
+\newblock Detecting crowdsourcing spammers in community question answering
+  websites.
+\newblock In {\em International Conference on Emerging Internetworking, Data \&
+  Web Technologies}, pages 412--423. Springer, Cham, 2017.
+
+\bibitem{liu2017research}
+Jialin Liu, Lei Wang, Linlin Guo, Jian Fang, Bingxian Lu, and Wei Zhou.
+\newblock A research on csi-based human motion detection in complex scenarios.
+\newblock In {\em 2017 IEEE 19th International Conference on e-Health
+  Networking, Applications and Services (Healthcom)}, pages 1--6. IEEE, 2017.
+
+\bibitem{shu2017mobile}
+Lei Shu, Yuanfang Chen, Zhiqiang Huo, Neil Bergmann, and Lei Wang.
+\newblock When mobile crowd sensing meets traditional industry.
+\newblock {\em Ieee Access}, 5:15300--15307, 2017.
+
+\bibitem{shu2017releasing}
+Lei Shu, Lei Wang, Jianwei Niu, Chunsheng Zhu, and Mithun Mukherjee.
+\newblock Releasing network isolation problem in group-based industrial
+  wireless sensor networks.
+\newblock {\em IEEE Systems Journal}, 11(3):1340--1350, 2017.
+
+\bibitem{sun2017novel}
+Liang Sun, Lei Wang, Zhenquan Qin, Zehao Ma, and Zhuxiu Yuan.
+\newblock A novel on-line association algorithm in multiple-ap wireless lan.
+\newblock In {\em International Conference on Wireless Algorithms, Systems, and
+  Applications}, pages 890--902. Springer, Cham, 2017.
+
+\bibitem{tian2017patching}
+Feng Tian, Lei Wang, Xinyang Liu, and Shan Gao.
+\newblock Patching traceroute using geographic information in neutrality
+  inference crowdsourcing.
+\newblock In {\em 2017 3rd International Conference on Big Data Computing and
+  Communications (BIGCOM)}, pages 1--9. IEEE, 2017.
+
+\bibitem{wang2017privacy}
+Xiaojie Wang, Lei Wang, and Zhaolong Ning.
+\newblock A privacy-reserved approach for message forwarding in opportunistic
+  networks.
+\newblock In {\em 2017 IEEE 31st International Conference on Advanced
+  Information Networking and Applications (AINA)}, pages 1070--1075. IEEE,
+  2017.
+
+\bibitem{hu2016cii}
+Junyu Hu, Zhenquan Qin, Yingxiao Sun, Lei Shu, Bingxian Lu, and Lei Wang.
+\newblock Cii: A light-weight mechanism for zigbee performance assurance under
+  wifi interference.
+\newblock In {\em 2016 25th International Conference on Computer Communication
+  and Networks (ICCCN)}, pages 1--9. IEEE, 2016.
+
+\bibitem{liao2016lei}
+Wanjiun Liao, Jaime Lloret, and Lei Wang.
+\newblock Lei shu.
+\newblock {\em Int. J. Sensor Networks}, 21(4):205, 2016.
+
+\bibitem{lu2016confining}
+Bingxian Lu, Zhicheng Zeng, Lei Wang, Brian Peck, Daji Qiao, and Michael Segal.
+\newblock Confining wi-fi coverage: A crowdsourced method using physical layer
+  information.
+\newblock In {\em 2016 13th Annual IEEE International Conference on Sensing,
+  Communication, and Networking (SECON)}, pages 1--9. IEEE, 2016.
+
+\bibitem{qin2016joint}
+Zhenquan Qin, Yingxiao Sun, Liang Sun, Lei Shu, Lei Wang, Wenzhe Zhang, and
+  Bingxian Lu.
+\newblock A joint duty cycle and network coding mac protocol for underwater
+  wireless sensor networks.
+\newblock In {\em 2016 25th International Conference on Computer Communication
+  and Networks (ICCCN)}, pages 1--9. IEEE, 2016.
+
+\bibitem{tang2016novel}
+Zhaoshu Tang, Ming Zhu, Lei Wang, and Honglian Ma.
+\newblock A novel link scheduling algorithm for wireless networks using
+  directional antenna.
+\newblock In {\em 2016 IEEE Wireless Communications and Networking Conference},
+  pages 1--6. IEEE, 2016.
+
+\bibitem{zheng2016diva}
+Xueshu Zheng, Shuailing Yang, Naigao Jin, Lei Wang, Mathew~L. Wymore, and Daji
+  Qiao.
+\newblock Diva: Distributed voronoi-based acoustic source localization with
+  wireless sensor networks.
+\newblock In {\em INFOCOM}, pages 1--9. IEEE, 2016.
+
+\bibitem{zhu2016upmac}
+Ming Zhu, Wenzhe Zhang, Naigao Jin, Zhenquan Qin, Jiajun Xin, and Lei Wang.
+\newblock Upmac: A localized load-adaptive mac protocol for underwater acoustic
+  networks.
+\newblock {\em IEEE Sensors Journal}, 16(11):4110--4118, 2016.
+
+\bibitem{zhu2016error}
+Sanfeng Zhu, Naigao Jin, Lei Wang, Shuailing Yang, Xueshu Zheng, Ming Zhu, and
+  Liang Sun.
+\newblock Error tolerant dual-hydrophone localization in underwater sensor
+  networks.
+\newblock In {\em OCEANS 2016-Shanghai}, pages 1--4. IEEE, 2016.
+
+\bibitem{zhu2016novel}
+Sanfeng Zhu, Naigao Jin, Lei Wang, Xueshu Zheng, Shuailing Yang, and Ming Zhu.
+\newblock A novel dual-hydrophone localization method in underwater sensor
+  networks.
+\newblock In {\em 2016 IEEE/OES China Ocean Acoustics (COA)}, pages 1--4. IEEE,
+  2016.
+
+\bibitem{dong2015pillow}
+Xuan Dong, Chunsheng Zhu, Shaohe Lv, Lei Wang, Xiaodong Wang, and Victor Leung.
+\newblock Pillow talks: Bits over communications in wlan.
+\newblock In {\em Proceedings of the Second Workshop on Mobile Sensing,
+  Computing and Communication}, pages 19--24. ACM, 2015.
+
+\bibitem{huang2015acoustic}
+Jinghong Huang, Naigao Jin, Lei Wang, Xue Chen, Xia Sheng, Shuailing Yang,
+  Xiangyu Zhao, Liang Sun, and Ming Zhu.
+\newblock Acoustic source localization with distributed smartphone arrays.
+\newblock In {\em 2015 IEEE Global Communications Conference (GLOBECOM)}, pages
+  1--6. IEEE, 2015.
+
+\bibitem{li2015energy}
+Chengming Li, Wenjing Liu, Lei Wang, Mingchu Li, and Koji Okamura.
+\newblock Energy-efficient quality of service aware forwarding scheme for
+  content-centric networking.
+\newblock {\em Journal of Network and Computer Applications}, 58:241--254,
+  2015.
+
+\bibitem{li2015novel}
+Di~Li, Feng Tian, Ming Zhu, Lei Wang, and Liang Sun.
+\newblock A novel framework for analysis of global network neutrality based on
+  packet loss rate.
+\newblock In {\em 2015 International Conference on Cloud Computing and Big Data
+  (CCBD)}, pages 297--304. IEEE, 2015.
+
+\bibitem{lu2015poster}
+Bingxian Lu, Zhicheng Zeng, Lei Wang, Brian Peck, and Daji Qiao.
+\newblock Poster: Crowdsourced location aware wi-fi access control.
+\newblock In {\em Proceedings of the 21st Annual International Conference on
+  Mobile Computing and Networking}, pages 284--286. ACM, 2015.
+
+\bibitem{ni2015sociality}
+Haibo Ni, Lei Wang, Zhenjie Yang, Ming Zhu, Feng Ding, and Zhenquan Qin.
+\newblock A sociality-aware online ap association algorithm based on spectral
+  clustering.
+\newblock In {\em 2015 IEEE 28th Canadian Conference on Electrical and Computer
+  Engineering (CCECE)}, pages 830--835. IEEE, 2015.
+
+\bibitem{qin2015optimized}
+Zhenquan Qin, Bingxian Lu, Chunting Zhou, Lei Wang, Ming Zhu, Lei Shu, and
+  Xiaojing Zhu.
+\newblock Optimized periodical charging in large-scale deployed wsns.
+\newblock In {\em 2015 IEEE Global Communications Conference (GLOBECOM)}, pages
+  1--6. IEEE, 2015.
+
+\bibitem{tian2015rtda}
+Feng Tian, Di~Li, Shuyu Li, Lei Wang, Naigao Jin, and Liang Sun.
+\newblock Rtda: A novel reusable truthful double auction mechanism for wireless
+  spectrum management.
+\newblock In {\em International Conference on Big Data Computing and
+  Communications}, pages 14--27. Springer, 2015.
+
+\bibitem{wan2015flow}
+Peng-Jun Wan, Fahad Al-Dhelaan, Sai Ji, Lei Wang, and Ophir Frieder.
+\newblock Flow-based feasibility test of linear interference alignment with
+  arbitrary interference topology.
+\newblock In {\em 2015 IEEE Conference on Computer Communications (INFOCOM)},
+  pages 1526--1534. IEEE, 2015.
+
+\bibitem{wan2015new}
+Peng-Jun Wan, Boliu Xu, Lei Wang, Sai Ji, and Ophir Frieder.
+\newblock A new paradigm for multiflow in wireless networks: Theory and
+  applications.
+\newblock In {\em 2015 IEEE Conference on Computer Communications (INFOCOM)},
+  pages 1706--1714. IEEE, 2015.
+
+\bibitem{wang2015novel}
+Huaying Wang, Lei Wang, Fanfu Kong, Liang Sun, and Jiawei Yong.
+\newblock A novel optimization approach for revenue maximization in mobile data
+  pricing.
+\newblock In {\em 2015 IEEE International Conference on Communications (ICC)},
+  pages 6918--6923. IEEE, 2015.
+
+\bibitem{zeng2015impact}
+Zhicheng Zeng, Ming Zhu, Lei Wang, Zhenquan Qin, Zhaoshu Tang, and Honglian Ma.
+\newblock Impact of directional antenna on physical layer authentication.
+\newblock In {\em Frontier of Computer Science and Technology (FCST), 2015
+  Ninth International Conference on}, pages 65--70. IEEE, 2015.
+
+\bibitem{zheng2015poster}
+Xueshu Zheng, Naigao Jin, Lei Wang, Mathew~L Wymore, and Daji Qiao.
+\newblock Poster: Distributed voronoi-based acoustic source localization with
+  wireless sensor networks.
+\newblock In {\em Proceedings of the 21st Annual International Conference on
+  Mobile Computing and Networking}, pages 269--271. ACM, 2015.
+
+\bibitem{zhu2015measurement}
+Ming Zhu, Zhicheng Zeng, Lei Wang, Zhenquan Qin, An~Pan, Yuanyuan Zhang, and
+  Lei Shu.
+\newblock A measurement study of a campus wi-fi network with mixed handheld and
+  non-handheld traffic.
+\newblock In {\em Electrical and Computer Engineering (CCECE), 2015 IEEE 28th
+  Canadian Conference on}, pages 848--853. IEEE, 2015.
+
+\bibitem{zhu2015probability}
+Sanfeng Zhu, Naigao Jin, Xueshu Zheng, Han Yao, Shuailing Yang, and Lei Wang.
+\newblock A probability-based acoustic source localization scheme using
+  dual-microphone smartphones.
+\newblock In {\em 2015 IEEE International Conference on Communications (ICC)},
+  pages 6621--6626. IEEE, 2015.
+
+\bibitem{chen2014apropos}
+Jenhui Chen, Zhuxiu Yuan, and Lei Wang.
+\newblock An apropos signal report and adaptive period (asap) scheme for fast
+  handover in the fourth-generation wireless networks.
+\newblock {\em Journal of Network and Computer Applications}, 45:15--26, 2014.
+
+\bibitem{lu2014priority}
+Bingxian Lu, Zhenquan Qin, Lei Wang, Liang Sun, Ming Zhu, and Lei Shu.
+\newblock Priority-based differentiated service in spectrum mobility game.
+\newblock {\em KSII Transactions on Internet and Information Systems (TIIS)},
+  8(4):1324--1343, 2014.
+
+\bibitem{qin2014novel}
+Zhenquan Qin, Bingxian Lu, Lei Wang, Jianing Zhang, Ming Zhu, Liang Sun, and
+  Lei Shu.
+\newblock A novel approach for spectrum mobility games with priority in
+  cognitive radio networks.
+\newblock In {\em 2014 IEEE International Conference on Communications (ICC)},
+  pages 1416--1421. IEEE, 2014.
+
+\bibitem{wan2014least}
+Peng-Jun Wan, Zhu Wang, Lei Wang, Zhiguo Wan, and Sai Ji.
+\newblock From least interference-cost paths to maximum (concurrent) multiflow
+  in mc-mr wireless networks.
+\newblock In {\em INFOCOM, 2014 Proceedings IEEE}, pages 334--342. IEEE, 2014.
+
+\bibitem{zhang2014upmac}
+Wenzhe Zhang, Zhenquan Qin, Jiajun Xin, Lei Wang, Ming Zhu, Liang Sun, and Lei
+  Shu.
+\newblock Upmac: A localized load-adaptive mac protocol for underwater acoustic
+  networks.
+\newblock In {\em 2014 23rd International Conference on Computer Communication
+  and Networks (ICCCN)}, pages 1--8. IEEE, 2014.
+
+\bibitem{zhang2014inbs}
+Wenzhe Zhang, Lei Wang, Zhenquan Qin, Xueshu Zheng, Liang Sun, Naigao Jin, and
+  Lei Shu.
+\newblock Inbs: An improved naive bayes simple learning approach for accurate
+  indoor localization.
+\newblock In {\em 2014 IEEE International Conference on Communications (ICC)},
+  pages 148--153. IEEE, 2014.
+
+\bibitem{zhu2014survey}
+Chunsheng Zhu, Lei Shu, Takahiro Hara, Lei Wang, Shojiro Nishio, and Laurence~T
+  Yang.
+\newblock A survey on communication and data management issues in mobile sensor
+  networks.
+\newblock {\em Wireless Communications and Mobile Computing}, 14(1):19--36,
+  2014.
+
+\bibitem{zhu2014sleep}
+Chunsheng Zhu, Laurence~T Yang, Lei Shu, Victor~CM Leung, Joel~JPC Rodrigues,
+  and Lei Wang.
+\newblock Sleep scheduling for geographic routing in duty-cycled mobile sensor
+  networks.
+\newblock {\em IEEE Transactions on Industrial Electronics}, 61(11):6346--6355,
+  2014.
+
+\bibitem{cui2013wireless}
+Delong Cui, Lei Shu, Jianwei Niu, and Lei Wang.
+\newblock Wireless sensor networks based research issues in large-scale
+  petrochemical industries.
+\newblock {\em Sensor Letters}, 11(9):1675--1680, 2013.
+
+\bibitem{ma2013overlapping}
+Can Ma, Lei Wang, Jiaqi Xu, Zhenquan Qin, Lei Shu, and Di~Wu.
+\newblock An overlapping clustering approach for routing in wireless sensor
+  networks.
+\newblock In {\em Wireless Communications and Networking Conference (WCNC),
+  2013 IEEE}, pages 4375--4380. IEEE, 2013.
+
+\bibitem{ma2013improving}
+Can Ma, Lei Wang, Qin Zhenquan, Ming Zhu, Lei Shu, Weifeng Ying, Jiaqi Xu, and
+  Canfeng Chen.
+\newblock Improving the throughput of smart phone audio-jack based gateway for
+  sensor networks.
+\newblock In {\em INFOCOM}. IEEE, 2013.
+
+\bibitem{qin2013overlapping}
+Zhenquan Qin, Can Ma, Lei Wang, Jiaqi Xu, and Bingxian Lu.
+\newblock An overlapping clustering approach for routing in wireless sensor
+  networks.
+\newblock {\em International Journal of Distributed Sensor Networks},
+  9(3):867385, 2013.
+
+\bibitem{qin2013practical}
+Zhenquan Qin, Chunting Zhou, Yue Yu, Lei Wang, Liang Sun, and Yuanyuan Zhang.
+\newblock A practical solution to wireless energy transfer in wsns.
+\newblock In {\em ICT Convergence (ICTC), 2013 International Conference on},
+  pages 660--665. IEEE, 2013.
+
+\bibitem{shu2013studied}
+Lei Shu, Jianbin Xiong, Lei Wang, Jianwei Niu, and Qinruo Wang.
+\newblock Studied wind sensor nodes deployment towards accurate data fusion for
+  ship movement controlling.
+\newblock In {\em 2013 ACM/IEEE International Conference on Information
+  Processing in Sensor Networks (IPSN)}, pages 339--340. IEEE, 2013.
+
+\bibitem{su2013maximizing}
+Yuhan Su, Jinxiu Li, Zhenquan Qin, Lei Wang, and Wenzhe Zhang.
+\newblock Maximizing the network lifetime by using paco routing algorithm in
+  wireless sensor networks.
+\newblock In {\em China Conference Wireless Sensor Networks}, pages 155--165.
+  Springer Berlin Heidelberg, 2013.
+
+\bibitem{wan2013maximizing}
+Peng-Jun Wan, Lei Wang, Chao Ma, Zhu Wang, Boliu Xu, and Minming Li.
+\newblock Maximizing wireless network capacity with linear power: Breaking the
+  logarithmic barrier.
+\newblock In {\em 2013 Proceedings IEEE INFOCOM}, pages 135--139. IEEE, 2013.
+
+\bibitem{wang2013backoff}
+Lei Wang, Zhuxiu Yuan, Zhenquan Qin, Yuanfang Chen, Lei Shu, and Xiang-Yang Li.
+\newblock A backoff differentiation scheme for contention resolution in
+  wireless converge-cast networks.
+\newblock {\em Concurrency and Computation: Practice and Experience},
+  25(1):112--128, 2013.
+
+\bibitem{yue2013gatewaying}
+Wenlong Yue, Yuanyuan Zhang, Zhenquan Qin, Ming Zhu, Cheng Jin, Lei Wang, Lei
+  Shu, and Canfeng Chen.
+\newblock Gatewaying the wireless sensor networks.
+\newblock In {\em 2013 IEEE 9th International Conference on Mobile Ad-hoc and
+  Sensor Networks}, pages 61--66. IEEE, 2013.
+
+\bibitem{chen2012proportional}
+Yuanfang Chen, Mingchu Li, Lei Shu, Lei Wang, and Takahiro Hara.
+\newblock A proportional fairness backoff scheme for funnelling effect in
+  wireless sensor networks.
+\newblock {\em Transactions on Emerging Telecommunications Technologies},
+  23(6):585--597, 2012.
+
+\bibitem{jin2012fairness}
+Cheng Jin, Lei Wang, Lei Shu, Yuyao Feng, and Xueqing Xu.
+\newblock A fairness-aware smart parking scheme aided by parking lots.
+\newblock In {\em 2012 IEEE International Conference on Communications (ICC)},
+  pages 2119--2123. IEEE, 2012.
+
+\bibitem{lin2012data}
+Kai Lin, Lei Wang, Lei Shu, and Al-Sakib~Khan Pathan.
+\newblock Data gathering with multi-attribute fusion in wireless sensor
+  networks.
+\newblock In {\em Advancements in Distributed Computing and Internet
+  Technologies: Trends and Issues}, pages 159--181. IGI Global, 2012.
+
+\bibitem{ma2012visualising}
+Longhui Ma, Lei Wang, Lei Shu, Jing Zhao, and Suran Li.
+\newblock Visualising wireless sensor networks with netviewer.
+\newblock {\em International Journal of Ad Hoc and Ubiquitous Computing},
+  10(1):1--11, 2012.
+
+\bibitem{qin2012agile}
+Zhenquan Qin, Jianing Zhang, Liang Shi, Lei Wang, Lei Shu, and Yuquan Guo.
+\newblock Agile networking in smart grids.
+\newblock {\em IEEK Transactions on Smart Processing \& Computing},
+  1(1):34--49, 2012.
+
+\bibitem{wang2012analysis}
+Lei Wang, Zhuxiu Yuan, Liang Shi, Cheng Jin, and Chunlei Liu.
+\newblock An analysis of capacity and delay for the redundant multipath source
+  routing in ad hoc networks.
+\newblock {\em Adhoc \& Sensor Wireless Networks}, 14, 2012.
+
+\bibitem{wang2012energy}
+Lei Wang, Zhuxiu Yuan, Lei Shu, Liang Shi, and Zhenquan Qin.
+\newblock An energy-efficient ckn algorithm for duty-cycled wireless sensor
+  networks.
+\newblock {\em International Journal of Distributed Sensor Networks}, 2012,
+  2012.
+
+\bibitem{xu2012study}
+Jia-qi XU, Lei WANG, Can MA, and Lei SHU.
+\newblock Study of impacts of duty-cycle on overlapping multi-hop clustering in
+  wireless sensor networks.
+\newblock {\em The Journal of China Universities of Posts and
+  Telecommunications}, 19:19--91, 2012.
+
+\bibitem{yue2012green}
+Wenlong Yue, Lei Wang, Cheng Jin, Xiaokang Liu, Ming Zhu, Zhenquan Qin, and
+  Canfeng Chen.
+\newblock A green solution for intelligent metropolitan heating system with
+  usdcards.
+\newblock In {\em 2012 IEEE International Conference on Communications (ICC)},
+  pages 213--217. IEEE, 2012.
+
+\bibitem{chen2011insights}
+Yuanfang Chen, Lei Shu, Mingchu Li, Ziqi Fan, Lei Wang, and Takahiro Hara.
+\newblock The insights of dv-based localization algorithms in the wireless
+  sensor networks with duty-cycled and radio irregular sensors.
+\newblock In {\em Communications (ICC), 2011 IEEE International Conference on},
+  pages 1--6. IEEE, 2011.
+
+\bibitem{fan2011removing}
+Ziqi Fan, Yuanfang Chen, Lei Wang, Lei Shu, and Takahiro Hara.
+\newblock Removing heavily curved path: Improved dv-hop localization in
+  anisotropic sensor networks.
+\newblock In {\em 2011 Seventh International Conference on Mobile Ad-hoc and
+  Sensor Networks}, pages 75--82. IEEE, 2011.
+
+\bibitem{fan2011predictive}
+Ziqi Fan, Lei Wang, and Xiaohui Wang.
+\newblock Predictive-tdma: A markov chain based mac protocol for mesh networks.
+\newblock In {\em 2011 IEEE 73rd Vehicular Technology Conference (VTC Spring)},
+  pages 1--5. IEEE, 2011.
+
+\bibitem{li2011study}
+Suran Li, Lei Wang, Zhenquan Qin, Zhu Ming, and Lei Shu.
+\newblock A study on relationship migration among social networking providers.
+\newblock In {\em Mobile Ad-hoc and Sensor Networks (MSN), 2011 Seventh
+  International Conference on}, pages 303--309. IEEE, 2011.
+
+\bibitem{liu2011mitigating}
+Xiaokang Liu, Lei Wang, Zhuxiu Yuan, Yuanfang Chen, Lei Shu, and Chunsheng Zhu.
+\newblock Mitigating radio irregularity impact: An rssi calibration method for
+  range-free localization in sensor networks.
+\newblock In {\em 2011 Seventh International Conference on Mobile Ad-hoc and
+  Sensor Networks}, pages 160--166. IEEE, 2011.
+
+\bibitem{ma2011geographic}
+Can Ma, Lei Wang, Jiaqi Xu, Zhenquan Qin, Ming Zhu, and Lei Shu.
+\newblock A geographic routing algorithm in duty-cycled sensor networks with
+  mobile sinks.
+\newblock In {\em 2011 Seventh International Conference on Mobile Ad-hoc and
+  Sensor Networks}, pages 343--344. IEEE, 2011.
+
+\bibitem{pang2011fast}
+Chao Pang, Lei Wang, Jiaqi Xu, Zhenquan Qin, and Ming Zhu.
+\newblock A fast handoff mechanism with pre-scanning for wireless mesh
+  networks.
+\newblock In {\em 2011 Seventh International Conference on Mobile Ad-hoc and
+  Sensor Networks}, pages 345--346. IEEE, 2011.
+
+\bibitem{wang2011balanced}
+Wei Wang, Tie Qiu, Lei Wang, Feng Xia, and Guowei Wu.
+\newblock A balanced energy consumption solution for wireless sensor networks
+  with failure clusters.
+\newblock In {\em 2011 IEEE International Conference on Computer Science and
+  Automation Engineering}, volume~4, pages 415--419. IEEE, 2011.
+
+\bibitem{xu2011experimental}
+Jiaqi Xu, Lei Wang, Yongnan Li, Zhenquan Qin, and Ming Zhu.
+\newblock An experimental study of batman performance in a campus deployment of
+  wireless mesh networks.
+\newblock In {\em 2011 Seventh International Conference on Mobile Ad-hoc and
+  Sensor Networks}, pages 341--342. IEEE, 2011.
+
+\bibitem{yuan2011balanced}
+Zhuxiu Yuan, Lei Wang, Lei Shu, Takahiro Hara, and Zhenquan Qin.
+\newblock A balanced energy consumption sleep scheduling algorithm in wireless
+  sensor networks.
+\newblock In {\em Wireless Communications and Mobile Computing Conference
+  (IWCMC), 2011 7th International}, pages 831--835. IEEE, 2011.
+
+\bibitem{yue2011poster}
+Wenlong Yue, Lei Wang, Ming Zhu, Zhenquan Qin, Lei Shu, and Canfeng Chen.
+\newblock Poster: a green solution for intelligent metropolitan heating system
+  with usdcard.
+\newblock In {\em Proceedings of the 9th international conference on Mobile
+  systems, applications, and services}, pages 401--402. ACM, 2011.
+
+\bibitem{zhao2011load}
+Jing Zhao, Lei Wang, Wenlong Yue, Zhengquan Qin, and Ming Zhu.
+\newblock Load migrating for the hot spots in wireless sensor networks using
+  ctp.
+\newblock In {\em 2011 Seventh International Conference on Mobile Ad-hoc and
+  Sensor Networks}, pages 167--173. IEEE, 2011.
+
+\bibitem{zhu2011sleep}
+Chunsheng Zhu, Laurence~T Yang, Lei Shu, Lei Wang, and Takahiro Hara.
+\newblock Sleep scheduling towards geographic routing in duty-cycled sensor
+  networks with a mobile sink.
+\newblock In {\em 2011 8th Annual IEEE Communications Society Conference on
+  Sensor, Mesh and Ad Hoc Communications and Networks}, pages 158--160. IEEE,
+  2011.
+
+\bibitem{chen2010scheme}
+Yuanfang Chen, Mingchu Li, Lei Shu, Lei Wang, and Trung~Q Duong.
+\newblock The scheme of mitigating the asymmetric links problem in wireless
+  sensor networks.
+\newblock In {\em GLOBECOM Workshops (GC Wkshps), 2010 IEEE}, pages 272--276.
+  IEEE, 2010.
+
+\bibitem{chen2010calibration}
+Yuanfang Chen, Xiaokang Liu, Lei Wang, Lei Shu, and Han-Chieh Chao.
+\newblock A calibration scheme based on pool adjacent violators for
+  localization in wireless sensor networks.
+\newblock In {\em Proceedings of the 6th International Wireless Communications
+  and Mobile Computing Conference}, pages 726--730. ACM, 2010.
+
+\bibitem{chen2010sfl}
+Yuanfang Chen, Shaojie Tang, Xiang-Yang Li, Min~Gyung Kwak, Cheng Wang, and Lei
+  Wang.
+\newblock Sfl: Energy-aware spline function localization scheme for wireless
+  sensor networks.
+\newblock In {\em 2010 Sixth International Conference on Mobile Ad-hoc and
+  Sensor Networks}, pages 116--121. IEEE, 2010.
+
+\bibitem{fan2010impacts}
+Ziqi Fan, Yuanfang Chen, Lei Shu, Lei Wang, Takahiro Hara, and Shojiro Nishio.
+\newblock Impacts of duty-cycle and radio irregularity on hcrl localization in
+  wireless sensor networks.
+\newblock In {\em Proc. ICNP}, pages 5--8, 2010.
+
+\bibitem{huang2010pervasive}
+Mianbo Huang, Guoru Zhao, Lei Wang, and Feng Yang.
+\newblock A pervasive simplified method for human movement pattern assessing.
+\newblock In {\em 2010 IEEE 16th International Conference on Parallel and
+  Distributed Systems}, pages 625--628. IEEE, 2010.
+
+\bibitem{lin2010multi}
+Kai Lin, Lei Wang, Keqiu Li, and Lei Shu.
+\newblock Multi-attribute data fusion for energy equilibrium routing in
+  wireless sensor networks.
+\newblock {\em KSII Transactions on Internet and Information Systems (TIIS)},
+  4(1):5--24, 2010.
+
+\bibitem{ma2010netviewer}
+Longhui Ma, Lei Wang, Lei Shu, Jing Zhao, Suran Li, Zhuxiu Yuan, and Ning Ding.
+\newblock Netviewer: A universal visualization tool for wireless sensor
+  networks.
+\newblock In {\em 2010 IEEE Global Telecommunications Conference GLOBECOM
+  2010}, pages 1--5. IEEE, 2010.
+
+\bibitem{qin2010efficient}
+Zhenquan Qin, Lei Wang, Mingchu Li, and Weifeng Sun.
+\newblock An efficient trust mechanism in p2p network.
+\newblock In {\em 2010 Sixth International Conference on Intelligent
+  Information Hiding and Multimedia Signal Processing}, pages 731--734. IEEE,
+  2010.
+
+\bibitem{qiu2010new}
+Tie Qiu, Lei Wang, He~Guo, Xiaoyan Liu, Lin Feng, and Lei Shu.
+\newblock A new modeling method for vector processor pipeline using queueing
+  network.
+\newblock In {\em 2010 5th International ICST Conference on Communications and
+  Networking in China}, pages 1--6. IEEE, 2010.
+
+\bibitem{shu2010impacts}
+Lei Shu, Zhuxiu Yuan, Takahiro Hara, Lei Wang, and Yan Zhang.
+\newblock Impacts of duty-cycle on tpgf geographical multipath routing in
+  wireless sensor networks.
+\newblock In {\em 2010 IEEE 18th International Workshop on Quality of Service
+  (IWQoS)}, pages 1--2. IEEE, 2010.
+
+\bibitem{wang2010geographic}
+Kun Wang, Lei Wang, Can Ma, Lei Shu, and Joel Rodrigues.
+\newblock Geographic routing in random duty-cycled wireless multimedia sensor
+  networks.
+\newblock In {\em 2010 IEEE Globecom Workshops}, pages 230--234. IEEE, 2010.
+
+\bibitem{yuan2010analysis}
+Zhuxiu Yuan, Lei Wang, Cheng Meng, Chunlei Liu, Trung~Q Duong, and Lei Shu.
+\newblock Analysis on capacity and delay for redundant multiple source routing
+  in mobile ad hoc networks.
+\newblock In {\em GLOBECOM Workshops (GC Wkshps), 2010 IEEE}, pages 158--163.
+  IEEE, 2010.
+
+\bibitem{zhao2010survey}
+Jing Zhao, Lei Wang, Suran Li, Xiaokang Liu, Zhuxiu Yuan, and Zhengjiu Gao.
+\newblock A survey of congestion control mechanisms in wireless sensor
+  networks.
+\newblock In {\em 2010 Sixth International Conference on Intelligent
+  Information Hiding and Multimedia Signal Processing}, pages 719--722. IEEE,
+  2010.
+
+\bibitem{zhenquan2010window}
+Qin Zhenquan, Sun Weifeng, Wang Lei, et~al.
+\newblock A window-based optimization of energy detection in time-varying
+  channels.
+\newblock In {\em International Congress on Ultra Modern Telecommunications and
+  Control Systems}, pages 952--956. IEEE, 2010.
+
+\bibitem{zhu2010smac}
+Chunsheng Zhu, Yuanfang Chen, Lei Wang, Lei Shu, and Yan Zhang.
+\newblock Smac-based proportional fairness backoff scheme in wireless sensor
+  networks.
+\newblock In {\em Proceedings of the 6th international wireless communications
+  and mobile computing conference}, pages 138--142. ACM, 2010.
+
+\bibitem{zhu2010research}
+Chunsheng Zhu, Lei Shu, Takahiro Hara, Lei Wang, and Shojiro Nishio.
+\newblock Research issues on mobile sensor networks.
+\newblock In {\em 2010 5th International ICST Conference on Communications and
+  Networking in China}, pages 1--6. IEEE, 2010.
+
+\bibitem{chen2009proportional}
+Yuanfang Chen, Mingchu Li, Lei Wang, Zhuxiu Yuan, Weiping Sun, Chunsheng Zhu,
+  Ming Zhu, and Lei Shu.
+\newblock A proportional fair backoff scheme for wireless sensor networks.
+\newblock In {\em Mobile Adhoc and Sensor Systems, 2009. MASS'09. IEEE 6th
+  International Conference on}, pages 971--976. IEEE, 2009.
+
+\bibitem{chen2009simulation}
+Yuanfang Chen, Lei Wang, Zhuxiu Yuan, Chunsheng Zhu, Xiang-Yang Li, and Lei
+  SHU.
+\newblock Simulation and testbed experiments of a backoff differentiation
+  scheme for sensor networks.
+\newblock In {\em MobiCom'09}, number Poster. ACM, 2009.
+
+\bibitem{ma2009remote}
+Shuchao Ma, Ming Zhu, Lei Wang, Lei Shu, Suran Li, and Shumin Huang.
+\newblock A remote monitoring system of idc room based on zigbee wireless
+  sensor networks.
+\newblock In {\em Dependable, Autonomic and Secure Computing, 2009. DASC'09.
+  Eighth IEEE International Conference on}, pages 782--787. IEEE, 2009.
+
+\bibitem{shu2009visualizing}
+Lei Shu, Manfred Hauswirth, Lei Wang, Zhuxiu Yuan, and Yuanfang Chen.
+\newblock Visualizing simulation and testbed of wireless sensor networks with
+  nettopo.
+\newblock In {\em Proceedings of the 4th ACM international workshop on
+  Experimental evaluation and characterization}, pages 99--100. ACM, 2009.
+
+\bibitem{shu2009cross}
+Lei Shu, Manfred Hauswirth, Lei Wang, Yan Zhang, and Jong~Hyuk Park.
+\newblock Cross-layer optimized data gathering in wireless multimedia sensor
+  networks.
+\newblock In {\em 2009 International Conference on Computational Science and
+  Engineering}, volume~2, pages 961--966. IEEE, 2009.
+
+\bibitem{shu2009influence}
+Lin Shu, Jian-Wei Shen, Lei Wang, and Wei-Guo Du.
+\newblock Influence of fluctuating temperature on incubation duration and
+  hatchling phenotypes in the chinese three-keeled pond turtle, chinemys
+  reevesii.
+\newblock {\em Journal of Zhejiang University(Science Edition)}, 36(5), 2009.
+
+\bibitem{yuan2009backoff}
+Zhuxiu Yuan, Cuiyao Xue, Lei Wang, Yuanfang Chen, Weiping Sun, and Lei Shu.
+\newblock A backoff copying scheme for contention resolution in wireless sensor
+  networks.
+\newblock In {\em Proceedings of the 4th ACM international workshop on
+  Experimental evaluation and characterization}, pages 81--82. ACM, 2009.
+
+\bibitem{zhang2009intelligent}
+Yi-Ying Zhang, Lei Shu, Myong-Soon Park, Lei Wang, and Eun-Mook Lee.
+\newblock An intelligent and reliable data transmission protocol for highly
+  destructible wireless sensor networks.
+\newblock {\em Journal of Internet Technology}, 10(5):539--548, 2009.
+
+\bibitem{shu2008nettopo}
+Lei Shu, Chun Wu, Yan Zhang, Jiming Chen, Lei Wang, and Manfred Hauswirth.
+\newblock Nettopo: beyond simulator and visualizer for wireless sensor
+  networks.
+\newblock {\em ACM SIGBED Review}, 5(3):2, 2008.
+
+\bibitem{wang2005redundant}
+Lei Wang, Seungho Jang, and Tae-young Lee.
+\newblock Redundant source routing for real-time services in ad hoc networks.
+\newblock In {\em IEEE International Conference on Mobile Adhoc and Sensor
+  Systems Conference, 2005.}, pages 7--pp. IEEE, 2005.
+
+\bibitem{chen2004simulation}
+Canfeng Chen, Lei Wang, Liang Liu, and Weiling Wu.
+\newblock Simulation study of tcp behavior over redundant source routing in ad
+  hoc networks.
+\newblock In {\em 2004 IEEE Wireless Communications and Networking Conference
+  (IEEE Cat. No. 04TH8733)}, volume~2, pages 1258--1263. IEEE, 2004.
+
+\bibitem{shu2004provisioning}
+Yan-Tai Shu, Guang-Hong Wang, Lei Wang, Oliver~WW Yang, and Yong-Jie Fan.
+\newblock Provisioning qos guarantee by multipath routing and reservation in ad
+  hoc networks.
+\newblock {\em Journal of Computer Science and Technology}, 19(2):128--137,
+  2004.
+
+\bibitem{shu2003adaptive}
+Yantai Shu, Oliver Yang, and Lei Wang.
+\newblock Adaptive routing in ad hoc networks.
+\newblock {\em Mohammand llyas. The Handbook of Ad Hoc Wireless Networks},
+  2003.
+
+\bibitem{wang2003multipath}
+Guanghong Wang, Yantai Shu, Yongjie Fan, Lei Wang, and Oliver~WW Yang.
+\newblock Multipath bandwidth splitting reservation in ad hoc networks.
+\newblock In {\em 14th IEEE Proceedings on Personal, Indoor and Mobile Radio
+  Communications, 2003. PIMRC 2003.}, volume~3, pages 2621--2625. IEEE, 2003.
+
+\bibitem{wang2003redundant}
+Lei Wang and Canfeng Chen.
+\newblock Redundant source routing in ad hoc networks.
+\newblock {\em Internal Technical Document, ITD-03-44902G, Lucent
+  Technologies}, 2003.
+
+\bibitem{shu2002multipath}
+Y-t Shu, D-y Gao, and Lei Wang.
+\newblock Multipath source routing in wireless ad hoc networks.
+\newblock {\em ACTA Electronica Sinica}, 30(2):279--282, 2002.
+
+\bibitem{zhang2002load}
+Linifang Zhang, Zenghua Zhao, Yantai Shu, Lei Wang, and Oliver~WW Yang.
+\newblock Load balancing of multipath source routing in ad hoc networks.
+\newblock In {\em 2002 IEEE International Conference on Communications.
+  Conference Proceedings. ICC 2002 (Cat. No. 02CH37333)}, volume~5, pages
+  3197--3201. IEEE, 2002.
+
+\bibitem{舒炎泰2002无线}
+舒炎泰, 高德云, and 王雷.
+\newblock {\em 无线 ad hoc 网络中的多径源路由}.
+\newblock PhD thesis, 2002.
+
+\bibitem{shu2001internet}
+Yan~Tai Shu, Lei Wang, Lian~Fang Zhang, Fei Xue, Zhi~Gang Jin, and O~Yang.
+\newblock Internet traffic modeling and prediction using farima models.
+\newblock {\em CHINESE JOURNAL OF COMPUTERS-CHINESE EDITION-}, 24(1):46--54,
+  2001.
+
+\bibitem{wang2001adaptive}
+Lei Wang, Yantai Shu, Miao Dong, Lianfang Zhang, and Oliver~WW Yang.
+\newblock Adaptive multipath source routing in ad hoc networks.
+\newblock In {\em ICC 2001. IEEE International Conference on Communications.
+  Conference Record (Cat. No. 01CH37240)}, volume~3, pages 867--871. IEEE,
+  2001.
+
+\bibitem{wang2000multipath}
+Lei Wang, Lianfang Zhang, Yantai Shu, and Miao Dong.
+\newblock Multipath source routing in wireless ad hoc networks.
+\newblock In {\em 2000 Canadian Conference on Electrical and Computer
+  Engineering. Conference Proceedings. Navigating to a New Era (Cat. No.
+  00TH8492)}, volume~1, pages 479--483. IEEE, 2000.
+
+\bibitem{wang2000study}
+Lei Wang, Lianfang Zhang, Yantai Shu, Miao Dong, and Oliver~WW Yang.
+\newblock A study of measurement-based web prefetch control.
+\newblock In {\em 2000 Canadian Conference on Electrical and Computer
+  Engineering. Conference Proceedings. Navigating to a New Era (Cat. No.
+  00TH8492)}, volume~1, pages 204--208. IEEE, 2000.
+
+\bibitem{shu1999traffic}
+Yantai Shu, Zhigang Jin, Lianfang Zhang, Lei Wang, and Oliver~WW Yang.
+\newblock Traffic prediction using farima models.
+\newblock In {\em 1999 IEEE International Conference on Communications (Cat.
+  No. 99CH36311)}, volume~2, pages 891--895. IEEE, 1999.
+
+\end{thebibliography}
